@@ -1,12 +1,12 @@
 {
   "name": "reatInterface",
   "version": "0.0.1",
-  "description": "Project for Building an Interface with React Course on Lynda.com",
+  "description": "First React Project, Building an Interface",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/reactinterface.git"
+    "url": "https://github.com/landrik/reactinterface.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Landry Karege",
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-browserify": "^0.5.1",
